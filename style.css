@@ -1,0 +1,69 @@
+
+ol {margin: 0;
+    padding: 0;
+    background-color: black;
+    width: 240px;
+    color: white;
+    list-style-position: inside;
+    cursor: pointer;
+    }
+.ma{
+    background-color: gray;
+    margin-bottom: 5px;
+    padding: 5px;
+   }
+.mb{
+    background-color: gray;
+    margin-bottom: 5px;
+    padding: 5px;
+   }
+.mc{
+    background-color: gray;
+    margin-bottom: 5px;
+    padding: 5px;
+   }
+.md{
+    background-color: gray;
+    margin-bottom: 5px;
+    padding: 5px;
+   }
+.me{
+    background-color: gray;
+    margin-bottom: 5px;
+    padding: 5px;
+   }
+.mf{
+    background-color: gray;
+    margin-bottom: 5px;
+    padding: 5px;
+   }
+.ma:hover{
+    background-color:rgb(126, 0, 126);
+    color: red;
+    transition: 0.3s;
+}   
+.mb:hover{
+    background-color:rgb(126, 0, 126);
+    color: red;
+    transition: 0.3s;
+}   
+.mc:hover{
+    background-color:rgb(126, 0, 126);
+    color: red;
+    transition: 0.3s;
+}   
+.md:hover{
+    background-color:rgb(126, 0, 126);
+    color: red;
+    transition: 0.3s;
+}   
+.me:hover{
+    background-color:rgb(126, 0, 126);
+    color: red;
+    transition: 0.3s;
+}   
+.mf:hover{
+    background-color:rgb(126, 0, 126);
+    color: red;
+    transition: 0.3s;
+}   
